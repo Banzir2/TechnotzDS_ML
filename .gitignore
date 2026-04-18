@@ -2,3 +2,4 @@ Train Set (Labeled)/
 Train Set (Split)/
 Test Set (Unlabeled)/
 .ipynb_checkpoints/
+*.npz
